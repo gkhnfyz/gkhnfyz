@@ -30,9 +30,9 @@ Yıllardır kurumsal BT yöneticiliği yapıyorum; yazdığım yazılımlar da b
 <a href="https://github.com/gkhnfyz/taskflow"><img src="assets/cards/taskflow.svg" width="32%" alt="TaskFlow: Kanban, takvim, faturalama ve yapay zekâ destekli görev asistanı"></a>
 <a href="https://github.com/gkhnfyz/kasa"><img src="assets/cards/kasa.svg" width="32%" alt="Kasa: Şifreleriniz bilgisayarınızda kalır"></a>
 <a href="https://github.com/gkhnfyz/nfc-kartvizit"><img src="assets/cards/nfc-kartvizit.svg" width="32%" alt="Tuma NFC Kartvizit: Telefona dokundur, bilgilerin rehbere kaydolsun"></a>
-<a href="https://github.com/gkhnfyz/medicore-crm"><img src="assets/cards/medicore-crm.svg" width="32%" alt="MediCore CRM: Randevu, hasta kaydı, reçete, ödeme ve raporlama tek panelde"></a>
-<a href="https://github.com/gkhnfyz/finflow"><img src="assets/cards/finflow.svg" width="32%" alt="FinFlow: Gelir, gider, bütçe, birikim ve yatırımlar tek yerde"></a>
-<a href="https://github.com/gkhnfyz/kurkadro"><img src="assets/cards/kurkadro.svg" width="32%" alt="KurKadro: Kadro kur, oyuncu ve hakem bul, maçını organize et"></a>
+<a href="https://github.com/gkhnfyz/medicore-crm"><img src="assets/cards/medicore-crm.svg" width="32%" alt="MediCore: Hasta kaydı, randevu, doktor ve vardiya yönetimi tek platformda"></a>
+<a href="https://github.com/gkhnfyz/finflow"><img src="assets/cards/finflow.svg" width="32%" alt="FinFlow: Gelir-gider, çoklu hesap, bütçe ve yatırım takibi tek platformda"></a>
+<a href="https://github.com/gkhnfyz/kurkadro"><img src="assets/cards/kurkadro.svg" width="32%" alt="KurKadro: Kadronu kur, dizilişini seç, JPG olarak paylaş"></a>
 </p>
 
 <p align="center"><sub>Karta tıklayınca ürünün tanıtım sayfası, oradan da canlı ürün açılır.</sub></p>
@@ -96,7 +96,7 @@ Hi, I'm **Gökhan**, founder of **[Tuma Bilişim](https://tumabilisim.com)**, an
 
 I build custom web apps, multi-tenant SaaS products and lightweight desktop apps, and I help businesses run their IT: Microsoft 365 / Google Workspace, servers, networking, security and backups.
 
-**Products:** [Zimmetly](https://zimmetly.com/tanitim.php), [Servisly](https://servisly.tumabilisim.com/), [Mahzen](https://mahzen.app), [TaskFlow](https://taskflowcrm.com/), [Kasa](https://tumabilisim.com/kasa/), [Tuma NFC Kartvizit](https://nfc.tumabilisim.com), [MediCore CRM](https://medicorecrm.com), [FinFlow](https://finflowcrm.com), [KurKadro](https://kurkadro.com).
+**Products:** [Zimmetly](https://zimmetly.com/tanitim.php), [Servisly](https://servisly.tumabilisim.com/), [Mahzen](https://mahzen.app), [TaskFlow](https://taskflowcrm.com/), [Kasa](https://tumabilisim.com/kasa/), [Tuma NFC Kartvizit](https://nfc.tumabilisim.com), [MediCore](https://medicorecrm.com), [FinFlow](https://finflowcrm.com), [KurKadro](https://kurkadro.com).
 
 **Let's talk:** [info@tumabilisim.com](mailto:info@tumabilisim.com) · WhatsApp [+90 533 432 15 12](https://wa.me/905334321512) · [LinkedIn](https://linkedin.com/in/gokhanfeyyaz)
 
